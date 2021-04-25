@@ -1,2 +1,2 @@
 # hello-world
-A test repository, to see if I can use this.
+A test repository, to learn how to use github.
